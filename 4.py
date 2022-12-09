@@ -7,7 +7,7 @@ data2 = open('text2.txt','a',encoding='UTF-8')
 for s in data1.readlines():
     s=list(s)
     print(s)
-    
+    while 
 
 data1.close()
 data2.write(s)
