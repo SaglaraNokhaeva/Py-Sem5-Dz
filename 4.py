@@ -10,6 +10,7 @@ for s in data1.readlines():
     
 
 data1.close()
+data2.write(s)
 data2.close()
 
 
